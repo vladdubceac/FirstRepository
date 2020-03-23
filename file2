@@ -2,4 +2,8 @@ Goodbye!
 Some other line
 Line from user2
 Another line from user2
+<<<<<<< HEAD
 line from user 2 - lesson about rebase
+=======
+line from user2 - lesson about rebase
+>>>>>>> add change from user2
