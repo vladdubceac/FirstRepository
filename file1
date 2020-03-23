@@ -3,8 +3,4 @@ Hello World!
 Good bye!
 Line from user2
 Line from user1
-<<<<<<< HEAD
-some change
-=======
 line from user1 - lesson about rebase
->>>>>>> 107c343535139469e1451f203eb583de5db36c1a
